@@ -9,7 +9,6 @@ I'm a *fullstack* JS developer :rocket: based in Cayenne 🌱. Some technologies
 - 👯 I’m looking to collaborate more on open source
 - 💬 Ask me about Web and JS stuff
 - 📫 How to reach me: [here](https://twitter.com/chrisservius)
-- 😄 Pronouns: we, us
 
 ---
 
