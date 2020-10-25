@@ -12,7 +12,9 @@ I'm a *fullstack* JS developer :rocket: based in Cayenne 🌱. Some technologies
 
 ---
 
+<!--
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=spidergon&count_private=true&show_icons=true&hide=stars&theme=tokyonight" />
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spidergon&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
