@@ -5,7 +5,6 @@
 I'm a *fullstack* JS developer :rocket: based in Cayenne 🌱. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup), GatsbyJS.
 
 - 🔭 I’m currently working on some personal projects
-- ⚡ I’m currently learning [Svelte](https://svelte.dev/)
 - 👯 I’m looking to collaborate more on open source
 - 💬 Ask me about Web and JS stuff
 - 📫 How to reach me: [here](https://twitter.com/chrisservius)
