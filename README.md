@@ -17,14 +17,6 @@ I'm a *fullstack* JS developer :rocket: based in Cayenne 🌱. Some technologies
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spidergon&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1337](https://github.com/ahampriyanshu/algo_ds_101/issues/1337) in [ahampriyanshu/algo_ds_101](https://github.com/ahampriyanshu/algo_ds_101)
-2. 💪 Opened PR [#1355](https://github.com/ahampriyanshu/algo_ds_101/pull/1355) in [ahampriyanshu/algo_ds_101](https://github.com/ahampriyanshu/algo_ds_101)
-3. 🗣 Commented on [#1337](https://github.com/ahampriyanshu/algo_ds_101/issues/1337) in [ahampriyanshu/algo_ds_101](https://github.com/ahampriyanshu/algo_ds_101)
-<!--END_SECTION:activity-->
-
 <!--
 **spidergon/spidergon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
