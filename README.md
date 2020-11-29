@@ -2,7 +2,7 @@
 
 # Hi there 👋✨✨
 
-I'm a *fullstack* JS developer :rocket: based in Cayenne 🌱. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup), GatsbyJS.
+I'm a *fullstack* JS developer :rocket: based in Cayenne 🌱. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup), NextJS.
 
 - 🔭 I’m currently working on some personal projects
 - 👯 I’m looking to collaborate more on open source
