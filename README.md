@@ -1,8 +1,11 @@
+![Chris fullstack JS Dev](https://pbs.twimg.com/profile_banners/913885097811726336/1628985259/1500x500)
+<!--
 ![Chris fullstack JS Dev](https://pbs.twimg.com/profile_banners/913885097811726336/1537579653/1500x500)
+-->
 
 # Hi there 👋✨✨
 
-I'm a *fullstack* JS developer based in Cayenne. Some technologies I enjoy working with include React ⚡, Next.js :rocket: and Jamstack (JavaScript, APIs + Markup).
+I'm a *fullstack* JS developer based in Cayenne (French Guiana). Some technologies I enjoy working with include React ⚡, Next.js :rocket: and JAMstack (JavaScript, APIs + Markup).
 
 - 💬 Ask me about Web and JS stuff
 - 📫 How to reach me: [here](https://twitter.com/chrisservius)
