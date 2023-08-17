@@ -14,8 +14,10 @@ I'm a *fullstack* JS developer based in Cayenne (French Guiana). Some technologi
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=spidergon&count_private=true&show_icons=true&hide=stars&theme=tokyonight" />
 -->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=spidergon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=stars,contribs&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidergon&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
-| ------------- | ------------- |
+<!--| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=spidergon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=stars,contribs&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidergon&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| ------------- | ------------- | -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidergon&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spidergon&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
