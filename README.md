@@ -1,10 +1,9 @@
 ![Chris fullstack JS Dev](https://pbs.twimg.com/profile_banners/913885097811726336/1628985259/1500x500)
 
-# Hi there 👋✨✨
+# 👋 ✨✨
 
-I'm a *fullstack* JS developer based in Cayenne (French Guiana). Some technologies I enjoy working with include React ⚡, Next.js, [Astro](https://astro.build/) :rocket: and JAMstack (JavaScript, APIs + Markup).
+I'm a *fullstack* JS developer from Cayenne (French Guiana). Some technologies I enjoy working with include Node.js (Express), [Prisma](https://www.prisma.io/), React ⚡, [Astro](https://astro.build/) :rocket: and JAMstack (JavaScript, APIs + Markup).
 
-- 👯 I’m looking to collaborate more on opensource projects
 - 💬 Ask me about anything [here](https://github.com/spidergon/spidergon/issues)
 
 ---
