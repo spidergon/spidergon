@@ -2,7 +2,7 @@
 
 # 👋 ✨✨
 
-I'm a *fullstack* JS developer from Cayenne (French Guiana). Some technologies I enjoy working with include Node.js (Express), [Prisma](https://www.prisma.io/), React ⚡, [Astro](https://astro.build/) :rocket: and JAMstack.
+I'm a *fullstack* JS developer from Cayenne (French Guiana). I enjoy working with Node.js (Express), [Prisma](https://www.prisma.io/), [React](https://react.dev/) ⚡, [Astro](https://astro.build/) :rocket:, [Next.js](https://nextjs.org/) ✨ and [Jamstack](https://jamstack.org/).
 
 💬 Ask me about anything [here](https://github.com/spidergon/spidergon/issues)
 
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://twitter.com/chrisservius">
+<!-- <a href="https://x.com/chrisservius">
   <img align="right" alt="Christopher Servius | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+</a> -->
